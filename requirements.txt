@@ -1,5 +1,5 @@
 pandas
 numpy
-rdkit==2022.09.5
+rdkit
 -f https://pypi.anaconda.org/rdkit/simple
 
