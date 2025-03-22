@@ -1,3 +1,5 @@
-streamlit
-rdkit
-pandas
+streamlit==1.29.0
+rdkit-pypi==2022.9.5
+pandas==2.1.4
+numpy==1.26.2
+Pillow==10.2.0
