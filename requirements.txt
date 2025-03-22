@@ -1,5 +1,6 @@
 streamlit==1.29.0
-rdkit-pypi==2022.9.5
+-f https://pypi.anaconda.org/rdkit/simple
+rdkit
 pandas==2.1.4
 numpy==1.26.2
 Pillow==10.2.0
