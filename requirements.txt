@@ -2,4 +2,4 @@ pandas
 numpy
 rdkit
 -f https://pypi.anaconda.org/rdkit/simple
-
+Streamlit
