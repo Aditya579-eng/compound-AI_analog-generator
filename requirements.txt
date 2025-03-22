@@ -1,6 +1,5 @@
-streamlit
--f https://pypi.anaconda.org/rdkit/simple
-rdkit
 pandas
 numpy
-Pillow
+rdkit==2022.09.5
+-f https://pypi.anaconda.org/rdkit/simple
+
